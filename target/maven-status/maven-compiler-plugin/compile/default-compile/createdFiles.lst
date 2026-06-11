@@ -1,0 +1,4 @@
+com\techstore\MainTest.class
+com\techstore\modelo\ProductoDAO.class
+com\techstore\modelo\Producto.class
+com\techstore\controlador\ProductoServlet.class
